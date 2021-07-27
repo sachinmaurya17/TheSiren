@@ -3,7 +3,7 @@ import './HeaderCompnent.css';
 import HeaderEachItem from './HeaderEachItem';
 
 const HeaderComponent = (props)=>{
-    console.log(props.HeaderComponentItem.data[0])
+    // console.log(props.HeaderComponentItem.data[0])
     return(
         <>
           <div className="headerComponents">

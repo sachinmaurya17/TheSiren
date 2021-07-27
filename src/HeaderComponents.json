@@ -1,26 +1,71 @@
-[
-    {
-        "id":"1",
-        "name":"Home"
-    },
-    {
-        "id":"2",
-        "name":"Bollywood"
-    },
-    {
-        "id":"3",
-        "name":"Technology"
-    },
-    {
-        "id":"4",
-        "name":"Hollywood"
-    },
-    {
-        "id":"5",
-        "name":"Fitness"
-    },
-    {
-        "id":"6",
-        "name":"Food"
-    }
-]
+{
+        "Header":[
+        {
+                "id":"1",
+                "name":"Home"
+        },
+        {
+                "id":"2",
+                "name":"Bollywood"
+        },
+        {
+                "id":"3",
+                "name":"Technology"
+        },
+        {
+                "id":"4",
+                "name":"Hollywood"
+        },
+        {
+                "id":"5",
+                "name":"Fitness"
+        },
+        {
+                "id":"6",
+                "name":"Food"
+        }
+        ],
+        "LeftImages":[
+        {
+            "id":"12",
+            "imageLink":"https://i.insider.com/5a25b4ef3339b009268b45d3?width=750&format=jpeg&auto=webp",
+            "text":"Tittle of vertical gallery"
+        }],
+
+        "RightImages":[
+        {
+                "id":"a",
+                "imageLink":"https://i.ytimg.com/vi/X57Lx9GllRg/maxresdefault.jpg",
+                "text":"Tittle of vertical gallery"
+        },
+        {
+                "id":"b",
+                "imageLink":"https://3.bp.blogspot.com/-_wFRydnnl9E/WtTUN_X0RpI/AAAAAAAABLw/iJKhQKYMLBMRdJfd1nDAqdIfhgUqyF19ACEwYBhgL/s1600/1.jpg",
+                "text":"Tittle of vertical gallery"
+        }
+        ],
+        "LatestCard":[
+                {
+                        "id":"1",
+                        "images":"https://images.indianexpress.com/2017/06/kunming_temple2.jpg",
+                        "heading":"The Fugan Temple",
+                        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat quia, ducimus voluptate facilis ipsam dolorem!",
+                        "date":"March 17 2001"
+                },
+                {
+                        "id":"2",
+                        "images":"https://colourfluxstudio.com/wp-content/uploads/2020/11/chinese-tempel-1024x713.jpg",
+                        "heading":"Yuantong temple",
+                        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat quia, ducimus voluptate facilis ipsam dolorem!",
+                        "date":"March 17 2001"
+                },
+                {
+                        "id":"3",
+                        "images":"https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/91/90/cd/il-tempio-buddhista-cinese.jpg",
+                        "heading":"Lumbini Sanskriti",
+                        "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat quia, ducimus voluptate facilis ipsam dolorem!",
+                        "date":"March 17 2001"
+                }
+        ]    
+}
+    

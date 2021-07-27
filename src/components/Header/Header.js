@@ -6,10 +6,12 @@ import Logo from './Logo';
 const Header = (props)=>{
     return(
         <>
-           <div className="header">
-             <Logo/>
-                <HeaderComponent HeaderComponentItem ={props}/>
-           </div> 
+           
+            <div className="header">
+            <Logo/>
+            <HeaderComponent HeaderComponentItem ={props}/>
+           
+            </div>
             
         </>
     )

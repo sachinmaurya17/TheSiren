@@ -12,7 +12,5 @@ body {
 }
 .header {
   cursor: pointer;
-  width: 80%;
-  margin-left: 10%;
-  border-bottom: 1px solid gray;
+  border-bottom: 1.2px solid gray;
 }

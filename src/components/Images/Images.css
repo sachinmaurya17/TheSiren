@@ -1,0 +1,21 @@
+.images {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.img {
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px gray;
+}
+.images__left {
+  position: relative;
+  width: 60%;
+  height: 400px;
+}
+.images__right {
+  width: 39%;
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+}
