@@ -1,0 +1,8 @@
+.headerEachItem {
+  font-size: 15px;
+  font-weight: 500;
+  transition: 0.3s ease-in;
+}
+.headerEachItem:hover {
+  transform: scale(1.02, 1.02);
+}

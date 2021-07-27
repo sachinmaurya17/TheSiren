@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"Home"
+    },
+    {
+        "id":"2",
+        "name":"Bollywood"
+    },
+    {
+        "id":"3",
+        "name":"Technology"
+    },
+    {
+        "id":"4",
+        "name":"Hollywood"
+    },
+    {
+        "id":"5",
+        "name":"Fitness"
+    },
+    {
+        "id":"6",
+        "name":"Food"
+    }
+]
